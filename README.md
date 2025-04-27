@@ -52,3 +52,17 @@ The best models after optimization include XGBoost, LightGBM, and Gradient Boost
 
 ## Running the Project
 1. Install dependencies:
+```bash 
+pip install -r requirements.txt
+```
+2. Run the Jupyter notebooks:
+```bash
+jupyter notebook testmodel.ipynb
+```
+2. or for EDA:
+```bash
+jupyter notebook housepriceprediction.ipynb
+```
+
+## License
+This project is open source and available for educational and research purposes.
