@@ -4,3 +4,6 @@ env/
 
 # Mengabaikan file percobaan
 percobaan.ipynb
+
+# Ignore catboost info
+catboost_info/
